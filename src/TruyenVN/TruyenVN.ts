@@ -25,7 +25,7 @@ import {
   decodeHTMLEntity,
 } from "./TruyenVNParser";
 
-const DOMAIN = "https://truyenvnhot.net/";
+const DOMAIN = "https://truyenvn.wiki/";
 const method = "GET";
 
 export const TruyenVNInfo: SourceInfo = {
